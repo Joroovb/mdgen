@@ -42,5 +42,6 @@ jobs:
         run: |
           git config --global user.name 'Code Café'
           git config --global user.email 'info@code-cafe.nl'
+          git add resume.pdf
           git commit -am "Automated CV Generator finished"
           git push
