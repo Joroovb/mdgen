@@ -23,10 +23,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-pandoc@v1
+        with:
+          pandoc-version: '2.14.1'
       
       - name: Install dependencies
         run: |
-          sudo apt-get -y install pandoc xfonts-base xfonts-75dpi
+          sudo apt-get -y install xfonts-base xfonts-75dpi
           curl --silent --show-error --location --max-redirs 2 --fail --retry 3 --output wkhtmltopdf-linux-amd64.deb https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
           sudo dpkg -i wkhtmltopdf-linux-amd64.deb
           rm -rf wkhtmltopdf-linux-amd64.deb
