@@ -37,3 +37,10 @@ jobs:
       # Runs a single command using the runners shell
       - name: Generate CV
         run: ./generate.sh
+        
+      - name: Commit CV to repo
+        run: |
+          git config --global user.name 'Code Café'
+          git config --global user.email 'info@code-cafe.nl'
+          git commit -am "Automated CV Generator finished"
+          git push
