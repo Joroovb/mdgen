@@ -5,7 +5,7 @@ footer_text: "Laatste update: November 2021"
 ---
 ## Over mij 
 
-<img class="profile-picture" src="maurice.png">
+<img class="profile-picture" src="Maurice.png">
 
 Programmeur, designer en leraar. Mijn eerste ervaring met programmeren was met twee vrienden een affiliate website maken voor vakanties. In de jaren daarna heb ik HTML, CSS en de basis van JavaScript geleerd via onlinecursussen. Vervolgens ben ik als freelance webdesigner aan de slag gegaan en heb ik meerdere websites mogen ontwikkelen voor kleine ondernemingen. Sinds 2021 ben ik bij CodeCafé als IT-docent aan de slag. Bij CodeCafé ben ik verantwoordelijk voor het ontwikkelen van lesmaterialen, het geven van programmeer trainingen, het begeleiden van trainees en het ontwerpen, bijhouden en ontwikkelen van de code-cafe.nl website.
 
