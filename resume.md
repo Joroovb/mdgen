@@ -1,143 +1,134 @@
 ---
-title: Joris van Breugel
-footer_text: "Last updated: June 2021"
+title: Maurice Dibbets 
+footer_text: "Laatste update: November 2021"
 
 ---
-## About Me
+## Over mij 
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="maurice.png">
 
-Programmer. Teacher. Tinkerer. Currently teaching programming and making Youtube content for Code Café. Building hardware and software is my passion. Trying to learn new things everyday! I hope to do a PhD someday. In my spare time I like to cuddle with cats, play music and automate my home.
+Programmeur, designer en leraar. Mijn eerste ervaring met programmeren was met twee vrienden een affiliate website maken voor vakanties. In de jaren daarna heb ik HTML, CSS en de basis van JavaScript geleerd via onlinecursussen. Vervolgens ben ik als freelance webdesigner aan de slag gegaan en heb ik meerdere websites mogen ontwikkelen voor kleine ondernemingen. Sinds 2021 ben ik bij CodeCafé als IT-docent aan de slag. Bij CodeCafé ben ik verantwoordelijk voor het ontwikkelen van lesmaterialen, het geven van programmeer trainingen, het begeleiden van trainees en het ontwerpen, bijhouden en ontwikkelen van de code-cafe.nl website.
 
 ## Occupation
-`2021 - Now`
+`2021 – heden`
 **Junior IT Docent**, *Code Café*, Utrecht
 
-- *Personal Coaching*
-- *Preparing and giving lectures and practical training*
-- *Online Lectures*
-- *Planning training tracks*
+- *Lesgeven in IT-traineeships*  
+- *Lesgeven bij externe organisaties*
+- *Website Code-cafe.nl & qien.nl gebouwd* 
+- *Online opleidingen ontwikkelen en opnemen voor CodeCafé.nl*
+- *Lesmaterialen ontwikkelen voor Project Icarus*
+- *Live streams maken en geven op YouTube*
+    - [Maak Krokodil met kiespijn in HTML, CSS & JavaScript](https://www.youtube.com/watch?v=H-v3hFWH094) 
+    - [Maak League of Legends Champions kaarten met HTML, CSS en JavaScript](https://www.youtube.com/watch?v=_1i0-7CQbUs)
+    - [Maak met JavaScript een cool parallax scroll-effect voor je website](https://www.youtube.com/watch?v=mYYbkVST7fg)
+    
+`2020 - 2021`
+**Mede-eigenaar**, *Dotfoxy*
 
-`2020 - 2020`
-**Full Stack Developer Trainee**, *Qien*, Utrecht
+- *Bouwen en verkopen van HTML / CSS templates* 
+- *Acquisitie, administratie en klantcontact*
 
-- *Frontend development with Javascript and React*
-- *Backend development with Java*
-- *OCA certification training*
-- *Scrum training*
-- *DevOps with Jenkins and Github Actions*
+`2017 - 2021`
+**Eigenaar**, *Brandlifterdam*
 
-`2015 - 2020`
-**Sound Engineer**, *Vondelbunker*, Amsterdam
-
-- *Mixing live music, with both digital and analog equipment*
-- *Producing recording sessions*
-- *Maintaining equipment*
-
-`2014 - 2015`
-**Board Member**, *Rood Jong in de SP*, Amersfoort
-
-- *Setting up affinity groups with young motivated members nationwide*
-- *Organizing schooling, from how to organize people for local issues to a summer camp*
-- *Organizing nationwide campaign surrounding student loans*
-
-`2011 - 2012`
-**Intern Political Staff**, *SP*, Amsterdam
-
-- *Internship at the SP at the city hall of Amsterdam*
-- *Researching for debates and meetings*
-- *Preparing press statements and personal briefings*
-
-`2011 - 2013`
-**Sales Representative**, *Pepperminds*, Breda & Amsterdam
-
-- *Direct sales of newspaper subscriptions*
-- *Independent working*
-- *Daily goals*
-
-## Education
-
-`2018 - 2019`
-**Master New Media and Digital Culture**, *University of Amsterdam*
-
-`2015 - 2018`
-**Bachelor Media Studies**, *University of Amsterdam*
-
-## Skills
-<table>
- <tr>
-  <td><h3>Technical</h3></td>
-  <td><h3>Soft</h3></td>
- </tr>
- <tr>
-    <td>Java</td>
-    <td>Scrum</td>
- </tr>
-  <tr>
-    <td>Python</td>
-    <td>Personal Leadership</td>
- </tr>
-  <tr>
-    <td>Linux</td>
-    <td>Personal Coaching</td>
- </tr>
-  <tr>
-    <td>Go</td>
-    <td>Lesson Planning</td>
- </tr>
-  <tr>
-    <td>Javascript</td>
-    <td>Lecturing</td>
- </tr>
-   <tr>
-    <td>Typescript</td>
-    <td>Communicative</td>
- </tr>
- <tr>
-    <td>Hibernate</td>
-    <td>Qualitative Analysis</td>
- </tr>
- <tr>
-    <td>Maven</td>
-    <td>Direct Sales</td>
- </tr>
- <tr>
-    <td>React</td>
-    <td>Data Analysis</td>
- </tr>
- <tr>
-    <td>Git</td>
-    <td></td>
- </tr>
- <tr>
-    <td>Docker</td>
-    <td></td>
- </tr>
- <tr>
-    <td>Data Visualization</td>
-    <td></td>
- </tr>
-</table>
-
-## Certification
+- *Ontwikkelen van websites* 
+- *Ontwerpen van website* 
+- *Acquisitie, administratie en klantcontact*
 
 `2020`
-Scrum PSM-1
+**Full Stack Developer Trainee**, *Qien B.V.*
+
+- *Frontend ontwikkeling met JavaScript en React*
+- *Backend ontwikkeling met Java*
+- *OCA-certificering*
+- *Scrum training*
+- *DevOps met Jenkins en Github Actions*
+
+## Opleidingen
+
+`2020`
+**IT-traineeship Java Full Stack Development**, *Qien B.V.*
+
+`2003 - 2006`
+**Small Business and Retail Management**, *Hanzehogeschool Groningen (Niet afgerond)* 
+
+## Certificaten 
+
+`2021` 
+AZ-204 Developing Solutions for Microsoft Azure (i.o.)
 
 `2020`
 Oracle Certified Associate
 
-`2015`
-Personal Leadership
+`2020`
+PSM-1 Scrum
 
-## Languages
-### Native
-- Dutch
-- English
+## Skills
+<table>
+ <tr>
+  <td><h3>Technische vaardigheden</h3></td>
+  <td><h3>Soft skills</h3></td>
+ </tr>
+ <tr>
+    <td>Java</td>
+    <td>Lesgeven</td>
+ </tr>
+  <tr>
+    <td>Spring</td>
+    <td>Scrum</td>
+ </tr>
+  <tr>
+    <td>Hibernate</td>
+    <td>Studenten begeleiden</td>
+ </tr>
+  <tr>
+    <td>Maven</td>
+    <td>Mentorschap</td>
+ </tr>
+  <tr>
+    <td>PHP</td>
+    <td>Lesplannen ontwikkelen</td>
+ </tr>
+   <tr>
+    <td>HTML5</td>
+    <td>Communicatieve vaardigheden</td>
+ </tr>
+   <tr>
+    <td>CSS3</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>Bootstrap</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>JavaScript</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>Angular</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>JQuery</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>SQL</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>Mendix</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>ThinkWise</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>Git</td>
+    <td></td>
+ </tr>
+</table>
 
-### Adept
-- German
-
-## References
-
-* Maarten Reesink: Faculty of Humanities, Media Studies, University of Amsterdam
