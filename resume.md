@@ -30,7 +30,7 @@ Programmeur, designer en leraar. Mijn eerste ervaring met programmeren was met t
 - *Acquisitie, administratie en klantcontact*
 
 `2017 - 2021`
-**Eigenaar**, *Brandlifterdam*
+**Eigenaar**, *Brandlift*
 
 - *Ontwikkelen van websites* 
 - *Ontwerpen van website* 
@@ -87,7 +87,7 @@ PSM-1 Scrum
     <td>Mentorschap</td>
  </tr>
   <tr>
-    <td>PHP</td>
+    <td>Git</td>
     <td>Lesplannen ontwikkelen</td>
  </tr>
    <tr>
@@ -123,11 +123,11 @@ PSM-1 Scrum
     <td></td>
  </tr>
    <tr>
-    <td>ThinkWise</td>
+    <td>Adobe XD</td>
     <td></td>
  </tr>
    <tr>
-    <td>Git</td>
+    <td>Webflow CMS</td>
     <td></td>
  </tr>
 </table>
